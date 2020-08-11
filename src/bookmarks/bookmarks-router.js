@@ -72,4 +72,4 @@ bookmarksRouter
       .end()
   })
 
-module.exports = bookmarksRoute
+module.exports = bookmarksRouter
